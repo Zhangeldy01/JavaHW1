@@ -1,4 +1,4 @@
-/*Task_3.
+package HomeWork01;/*Task_3.
         Реализовать простой калькулятор (+,-,=,*), только с целыми числами.*/
 
 import java.util.Scanner;
